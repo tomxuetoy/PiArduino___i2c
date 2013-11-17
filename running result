@@ -1,0 +1,20 @@
+pi@raspberrypi:~/tomxue$ python i2c.py
+Enter 1 - 9: 3
+RPI: Hi Arduino, I sent you  3
+Arduino: Hey RPI, I received a digit  3
+
+Enter 1 - 9: 4
+RPI: Hi Arduino, I sent you  4
+Arduino: Hey RPI, I received a digit  4
+
+Enter 1 - 9: 1
+RPI: Hi Arduino, I sent you  1
+Arduino: Hey RPI, I received a digit  1
+
+Enter 1 - 9: 1
+RPI: Hi Arduino, I sent you  1
+Arduino: Hey RPI, I received a digit  1
+
+Enter 1 - 9: 1
+RPI: Hi Arduino, I sent you  1
+Arduino: Hey RPI, I received a digit  1
